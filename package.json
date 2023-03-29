@@ -1,0 +1,24 @@
+{
+  "name": "vue3-alvin-typewriter",
+  "version": "1.1.0",
+  "description": "通过 Javascript 实现打字机插件",
+  "main": "typewriter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alvinliao",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvinyw/typewriter.git"
+  },
+  "homepage": "https://github.com/Alvinyw/typewriter",
+  "keywords": [
+    "typewriter",
+    "打字机",
+    "vue3打字机"
+  ],
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
